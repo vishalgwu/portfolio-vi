@@ -83,14 +83,14 @@ export interface Role {
 export const profile = {
   name: "Vishal Fulsundar",
   headline: "AI Systems & Data Science Engineer",
-  currentRole: "Forward Deployed Engineer · CrossCountry Consulting",
+  currentRole: "Forward Deployed Engineer · Snowflake",
   tagline:
     "Forward Deployed & ML Engineer with 3+ years taking AI from CRM predictions to finance-grade, human-approved automation. M.S. Data Science, George Washington University.",
   summary:
     "Forward Deployed & ML Engineer with 3+ years of experience progressing from editorial operations analytics through CRM predictive modeling to customer-facing AI integration. Builds FastAPI services that connect Coupa procurement records with ERP accrual workflows, using LangGraph and policy-grounded retrieval to support traceable, human-reviewed decisions.",
   github: "https://github.com/vishalgwu",
   linkedin: "https://www.linkedin.com/in/vishalfulsundar/",
-  email: "vishalfulsundar2025@gmail.com",
+  email: "vishalfulsundar2026@gmail.com",
   location: "VA, USA",
   repoCount: 58,
   school: "George Washington University",
@@ -123,7 +123,7 @@ export const profile = {
   experience: [
     {
       role: "Forward Deployed Engineer",
-      org: "CrossCountry Consulting",
+      org: "Snowflake",
       dates: "Jan 2026 – Present",
       place: "VA, USA",
       detail:
